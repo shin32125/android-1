@@ -1149,5 +1149,6 @@
 
   <include name="snippets/crdroid.xml" />
   <include name="snippets/lineage.xml" />
+  <include name="spacewar.xml" />
   <!--<include name="snippets/pixel.xml" />-->
 </manifest>
