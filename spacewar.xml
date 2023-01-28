@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <project name="shin32125/device_nothing_Spacewar-2" path="device/nothing/Spacewar" remote="github" revision="master" />
