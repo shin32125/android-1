@@ -2,5 +2,5 @@
 <manifest>
 <project name="Xtended-Devices/kernel_nothing_sm7325" path="kernel/nothing/sm7325" remote="github" revision="xt" />
 <project name="jamal2362/packages_apps_ParanoidGlyph" path="packages/apps/ParanoidGlyph" remote="github" revision="master" />
-<project path="Evolution-X/packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="github" revision="tiramius" />
+<project name="Evolution-X/packages/modules/Bluetooth" path="packages/modules/Bluetooth" remote="github" revision="tiramius" />
 </manifest>
